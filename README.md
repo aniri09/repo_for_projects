@@ -1,1 +1,1 @@
-# repo_for_projects
+# This is my exercise.
